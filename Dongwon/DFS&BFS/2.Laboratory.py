@@ -49,6 +49,7 @@ def wall(a):
             if graph[i][j] == 0:
                 graph[i][j] = 1
                 wall(a+1)
+                # 원래의 graph로 변경
                 graph[i][j] = 0
     
 wall(0)
