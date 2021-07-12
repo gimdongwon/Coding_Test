@@ -5,4 +5,4 @@
 - Counter 라이브러리
   - 갯수를 세주는 라이브러리이다.
   - 객체로 반환
-  - keys와 values 함수를 가지고 있음.
+  - keys와 values
